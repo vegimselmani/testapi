@@ -1,0 +1,89 @@
+{
+    "portfolio": [
+      {
+        "id": 1,
+        "asset": {
+          "name": "BTC",
+          "icon": "/bitcoin.png"
+        },
+        "balance": "2.50",
+        "value": "6.840.340",
+        "pool": "3.28",
+        "share": "-"
+      },
+      {
+        "id": 2,
+        "asset": {
+          "name": "ETH",
+          "icon":"/etherium.png"
+        },
+        "balance": "1.50",
+        "value": "6.840.340",
+        "pool": "3.28",
+        "share": "-"
+      },
+      {
+        "id": 3,
+        "asset":{
+          "name":"USDT",
+          "icon":"/tesla.png"
+        },
+        "balance": "1.50",
+        "value": "6.840.340",
+        "pool": "3.28",
+        "share": "-"
+      },
+      {
+        "id": 4,
+        "asset": {
+          "name": "DAI",
+          "icon": "/dodge.png"
+        },
+        "balance": "1.50",
+        "value": "6.840.340",
+        "pool": "3.28",
+        "share": "-"
+      },
+      {
+        "id": 5,
+        "asset": {  
+          "name":"USDT",
+          "icon":"/dollar.png"
+        },
+        "balance": "1.50",
+        "value": "6.840.340",
+        "pool": "3.28",
+        "share": "-"
+      }
+    ],
+    "transaction": [
+      {
+        "id": 1,
+        "txnHash":"0x08d...8ca33",
+        "age": "11 mins ago",
+        "from":"0x08d...8ca33",
+        "to":"0x08d...8ca33",
+        "value":"7,0707",
+        "token":"ETH"
+      },
+      {
+        "id": 2,
+        "txnHash":"0x08d...8ca33",
+        "age": "1h 3 mins ago",
+        "from":"0x08d...8ca33",
+        "to":"0x08d...8ca33",
+        "value":"200",
+        "token":"DAI"
+      },
+      {
+        "id": 3,
+        "txnHash":"0x08d...8ca33",
+        "age": "2h ago",
+        "from":"0x08d...8ca33",
+        "to":"0x08d...8ca33",
+        "value":"45,16",
+        "token":"USDC"
+      }
+    ]
+  }
+  
