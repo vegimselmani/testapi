@@ -55,35 +55,6 @@
         "pool": "3.28",
         "share": "-"
       }
-    ],
-    "transaction": [
-      {
-        "id": 1,
-        "txnHash":"0x08d...8ca33",
-        "age": "11 mins ago",
-        "from":"0x08d...8ca33",
-        "to":"0x08d...8ca33",
-        "value":"7,0707",
-        "token":"ETH"
-      },
-      {
-        "id": 2,
-        "txnHash":"0x08d...8ca33",
-        "age": "1h 3 mins ago",
-        "from":"0x08d...8ca33",
-        "to":"0x08d...8ca33",
-        "value":"200",
-        "token":"DAI"
-      },
-      {
-        "id": 3,
-        "txnHash":"0x08d...8ca33",
-        "age": "2h ago",
-        "from":"0x08d...8ca33",
-        "to":"0x08d...8ca33",
-        "value":"45,16",
-        "token":"USDC"
-      }
     ]
   }
   
